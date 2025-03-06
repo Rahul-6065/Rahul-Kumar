@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rahul-6065/Rahul-Kumar/blob/main/Beige%20Modern%20Flat%20Lay%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-6065&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-6065" /> </p>
 
 - 📫 How to reach me **rahulkrnwd@gmail.com**
-- - 📄 My Resume: [CLICK HERE](https://drive.google.com/file/d/1s3ReAQQguK5otrLAqRtc6Ctr_6_5CSyt/view)
+- - 📄 My Resume: [CLICK HERE](https://github.com/Rahul-6065/Rahul-Kumar/blob/main/Rahul%20Resume%20Template.docx.pdf)
 
 
 - ⚡ Fun fact **I'm Funny😊😊**
